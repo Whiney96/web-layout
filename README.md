@@ -55,5 +55,6 @@
         <td>style-guide.md</td>
         <td>This file contains properties used for the project</td>
       </tr>
+    </table>
   </body>
 </html>
